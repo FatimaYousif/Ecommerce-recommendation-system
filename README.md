@@ -5,3 +5,6 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblR
 
 Notebook link:
 https://colab.research.google.com/drive/1eUYP-oCIdIydXdCzlKljZwQQL-RrC4aG?usp=sharing
+
+Following YouTube video:
+https://youtu.be/DMo-gin4g4o
